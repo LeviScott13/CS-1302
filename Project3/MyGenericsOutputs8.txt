@@ -1,0 +1,93 @@
+1. Integer One D Array
+	4	7	2	20	30	22
+
+
+2. Double One D Array
+	4.0	7.5	2.3	20.7	30.1	22.8
+
+
+3. String One D Array
+	Tony	Paige	Denzel	Travis	Austin	Thomas	Demetrius
+
+
+4. Character One D Array
+	W	D	A	C	I	F	B
+
+
+
+5. Integer Two D Array
+	1	1   	60   	5   
+
+
+	2	20   	40   	5   
+
+
+	3	100   	300   	15   	27   
+
+
+
+6. String Two D Array
+	1	Quitman   	Valdosta   	Atlanta   	Macon   
+
+
+	2	Gainesville   	Tallahassee   	Jacksonville   
+
+
+
+7. A String arraylist
+	Tony	Paige	Denzel
+
+
+8.	Largest value is one-d integer list is:    	30
+9.	Largest value is one-d double list is:    	30.1
+10.	Largest value is one-d string list is:    	Travis
+11.	Largest value is one-d character list is:    	W
+12.	Largest value is two-d integer list is:    	300
+13.	Largest value is two-d string list is:    	Valdosta
+14.	Largest value is an arrayList is:           	Tony
+15. Integer One D Array intList
+	2	4	7	20	22	30
+
+
+16. Integer One D Array intList2
+	2	20	30	22	30	17	30	20	17
+
+
+
+17.Integer One D Array intList2  NO DUPLICATES
+	2	20	30	22	17
+
+
+18. Double One D Array
+	2.3	4.0	7.5	20.7	22.8	30.1
+
+
+19. String One D Array stringList
+	Austin	Demetrius	Denzel	Paige	Thomas	Tony	Travis
+
+
+20. String One D Array stringList2
+	Tony	Paige	Austin	Tony	Austin
+
+
+
+21. String One D Array stringList2  NO DUPLICATES
+	Tony	Paige	Austin
+
+
+21. Character One D Array
+	A	B	C	D	F	I	W
+
+
+
+23. A String arraylist
+	Denzel	Paige	Tony
+
+
+24. 	The location of value 20 in intList is:               	3
+25. 	The location of value 77 in intList is:               	-7
+26. 	The location of value 'C' in charList is:           	2
+27. 	The location of value "Austin" in stringList is:    	0
+
+ ----jGRASP wedge2: exit code for process is 0.
+ ----jGRASP: operation complete.

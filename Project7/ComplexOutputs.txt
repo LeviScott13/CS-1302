@@ -1,0 +1,17 @@
+----jGRASP wedge2: actual command sent ["C:\Program Files (x86)\Java\jdk1.8.0_111\bin\java.exe" MyComplex7 3.5 5.5 -3.5 1.0].
+ ----jGRASP wedge2: pid for process is 4296.
+(3.50 + 5.50i) + (-3.50 + 1.00i) = 0.0 + 6.5i
+(3.50 + 5.50i) - (-3.50 + 1.00i) = 7.0 + 4.5i
+(3.50 + 5.50i) * (-3.50 + 1.00i) = -17.75 + -15.75i
+(3.50 + 5.50i) / (-3.50 + 1.00i) = -0.51 + -1.72i
+|(3.50 + 5.50i)| = 6.52
+
+		I Cloned Them!
+
+(3.50 + 5.50i) + (-3.50 + 1.00i) = 0.0 + 6.5i
+(3.50 + 5.50i) - (-3.50 + 1.00i) = 7.0 + 4.5i
+(3.50 + 5.50i) * (-3.50 + 1.00i) = -17.75 + -15.75i
+(3.50 + 5.50i) / (-3.50 + 1.00i) = -0.51 + -1.72i
+|(3.50 + 5.50i)| = 6.52
+ ----jGRASP wedge2: exit code for process is 0.
+ ----jGRASP: operation complete.

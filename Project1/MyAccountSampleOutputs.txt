@@ -1,0 +1,28 @@
+Levi Sutton
+CS 1302
+MyQuadraticEquaion (Sample Output)
+
+Original quadratic equation qe1:	1.0X^2+1.0x1.0
+Discriminant				=-3.0
+The equation has no real roots
+Enter the three coefficients:		
+1 3 1
+
+
+Second quadratic equation qe2:		1.0X^2+3.0x+1.0
+Discriminant				=5.0
+Root1 Value:				x1 =-0.3819660112501051
+Root2 Value:				x2 =-2.618033988749895
+
+
+Updated first quadratic equation
+Original quadratic equation qe1:	1.0X^2+2.0x+1.0
+Discriminant				=0.0
+Root1 Value:				x1 =-1.0
+Root2 Value:				x2 =-1.0
+
+
+Updated first quadratic equation
+Original quadratic equation qe1:	1.0X^2+2.0x+3.0
+Discriminant				=-8.0
+The equation has no real roots

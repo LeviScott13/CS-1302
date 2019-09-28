@@ -1,0 +1,18 @@
+Name of the Cruise Ship is:  	Leviathan
+Maximum number of Passengers:	2786
+Year ship was built:         	1994
+
+Name of the Cruise Ship is:  	Titanic
+Maximum number of Passengers:	8376
+Year ship was built:         	1912
+
+Name of the Cruise Ship is:  	Moby
+Tonnage Capacity:            	173748
+Year ship was built:         	1932
+
+Name of the Cruise Ship is:  	Lucy
+Tonnage Capacity:            	399478
+Year ship was built:         	2030
+
+ ----jGRASP wedge2: exit code for process is 0.
+ ----jGRASP: operation complete.

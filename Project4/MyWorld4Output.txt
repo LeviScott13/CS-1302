@@ -1,0 +1,37 @@
+The total world population is		7256726949 people
+---- ---- ----
+The most populated country is China	1367485388 people
+---- ---- ----
+The largest country is Russia		17098242 Square km
+---- ---- ----
+
+      Continent Name     Continent Population
+       South America         409,950,804
+     Central America         166,270,249
+                Asia       4,341,527,134
+              Europe         745,618,507
+              Africa       1,157,357,170
+             America             193,762
+          Antarctica                  30
+           Australia          27,193,743
+       North America         398,659,117
+             Oceania           9,956,433
+---- ---- ----
+      Continent Name      Continent Area
+       South America          17,827,160
+     Central America           2,486,251
+                Asia          31,903,222
+              Europe          23,093,097
+              Africa          30,369,837
+             America                 519
+          Antarctica          14,444,199
+           Australia           8,009,115
+       North America          22,219,232
+             Oceania             552,623
+---- ---- ----
+
+The most populated continent is      Asia       4,341,527,134    people
+---- ---- ----
+The Largest continent is      Asia          31,903,222 square km
+ ----jGRASP wedge2: exit code for process is 0.
+ ----jGRASP: operation complete.
